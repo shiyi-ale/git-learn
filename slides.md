@@ -1,6 +1,7 @@
 ---
 # try also 'default' to start simple
 theme: seriph
+monaco: true
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://source.unsplash.com/collection/94734566/1920x1080
@@ -443,7 +444,7 @@ h1 {
 </style>
 
 ---
-layout:center
+monaco: true
 ---
 
 # 查看分支
@@ -515,7 +516,8 @@ h1 {
 </style>
 
 ---
-layout: 
+layout: center
+monaco: true
 ---
 
 # Git团队协作机制
